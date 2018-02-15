@@ -10,6 +10,15 @@ Spring MVC 구조
 ![MVC](https://user-images.githubusercontent.com/31613683/36257012-a3410c52-1298-11e8-8e0f-548d7708093d.png)
 
 
+<hr/>
 Controller
 - 최초 클라이언트로부터 요청이 들어왔을 때, 컨트롤러로 진입하게 된다.
 - 그리고 컨트롤러는 요청에 대한 작읍을 한 후 뷰쪽으로 데이터를 전달한다.
+
+##Controller클래스 제작 순서
+1. @Controller를 이용한 클래스 생성
+2. @RequestMapping을 이용한 요청 경로 지정
+3. @요청 메소드 구현
+4. 뷰 이름 리턴
+
+
