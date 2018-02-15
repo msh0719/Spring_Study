@@ -7,7 +7,7 @@ Spring MVC 구조
 - web.xml : DispatcherServlet 서블릿 맵핑 / 스프링 설정 파일 위치 정의
 - view
 
-![MVC](/Users/myeong/Desktop/Myeong_Su/Spring-Study/screen-shot/mvc.png)
+![MVC](https://user-images.githubusercontent.com/31613683/36256916-469cd99a-1298-11e8-86d5-13844c44ea1b.png)
 
 
 Controller
