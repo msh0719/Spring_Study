@@ -12,7 +12,6 @@ JDBC를 이용해서 기존 게시판 코드를 조금 더 간단하게 진행�
 
 
 2. dispatcher-servlet.xml 수정
-
 > <beans:bean name="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 >        <beans:property name="driverClassName" value="com.mysql.jdbc.Driver" />
 >        <beans:property name="url" 
@@ -24,18 +23,18 @@ JDBC를 이용해서 기존 게시판 코드를 조금 더 간단하게 진행�
     
     
     
-> <beans:bean name="template" class="org.springframework.jdbc.core.JdbcTemplate">
->    <beans:property name="dataSource" ref="dataSource" />
-> </beans:bean>
+><beans:bean name="template" class="org.springframework.jdbc.core.JdbcTemplate">
+>   <beans:property name="dataSource" ref="dataSource" />
+></beans:bean>
 
 
 3. util 패키지 생성 후 Constant 클래스 생성
 
-> import org.springframework.jdbc.core.JdbcTemplate;
+>import org.springframework.jdbc.core.JdbcTemplate;
 >
-> public class Constant {
->    public static JdbcTemplate template;
-> }
+>public class Constant {
+>  public static JdbcTemplate template;
+>}
 
 4. Dao
 
