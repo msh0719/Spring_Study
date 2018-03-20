@@ -27,17 +27,15 @@ JDBC를 이용해서 기존 게시판 코드를 조금 더 간단하게 진행�
 >        import org.springframework.jdbc.core.JdbcTemplate;
 >
 >        public class Constant {
->
->          public static JdbcTemplate template;
->
+>           public static JdbcTemplate template;
 >        }
 
 4. Dao
 
->   JdbcTemplate template = null;
->   public BDao() {
->           template = Constant.template; // 할당
->   }
+>       JdbcTemplate template = null;
+>       public BDao() {
+>               template = Constant.template; // 할당
+>       }
 
 5. 각 기능 구현
 >    ex) list
