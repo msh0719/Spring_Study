@@ -22,14 +22,6 @@ public class BDao {
 
 
     public BDao() {
-        try {
-            Context context = new InitialContext();
-            dataSource = (DataSource) context.lookup("java:/comp/env/jdbc/spring_ex");
-        }
-        catch (NamingException e){
-            e.printStackTrace();
-        }
-
         template = Constant.template; // 할당
     }
 
