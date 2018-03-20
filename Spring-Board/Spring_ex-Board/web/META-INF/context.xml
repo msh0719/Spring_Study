@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/">
+
+
+        <Resource name="jdbc/spring_ex" auth="Container" type="javax.sql.DataSource"
+                  factory="org.apache.commons.dbcp.BasicDataSourceFactory"
+                  username="root"
+                  password="1234"
+                  driverClassName="com.mysql.jdbc.Driver"
+                  url="jdbc:mysql://localhost:3306/spring_ex?characterEncoding=UTF-8"
+                  maxActive="1000"
+                  maxIdle="50"
+                   />
+</Context>
