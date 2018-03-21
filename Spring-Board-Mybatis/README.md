@@ -36,7 +36,7 @@ Intellij 환경에서 실습 진행
 >          PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 >          "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 >
->      <mapper namespace="com.mvc.board.dao.IDao">    
+>       <mapper namespace="com.mvc.board.dao.IDao">    
 >        <select id="listDao" resultType="com.mvc.board.dto.ContentDto">
 >          SELECT * FROM board ORDER BY mId DESC;
 >        </select>
