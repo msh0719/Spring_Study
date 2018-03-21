@@ -29,16 +29,16 @@ Intellij 환경에서 실습 진행
 >      </beans:bean>
 
 
-3. mapper 패키지 생성 후 mapper.xml 생성하기
+3. mapper 패키지 생성 후 listMapper.xml 생성하기
 
 >      <?xml version="1.0" encoding="UTF-8"?>
 >      <!DOCTYPE mapper
 >          PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 >          "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 >
->       <mapper namespace="com.mvc.board.dao.IDao">    
->        <select id="listDao" resultType="com.mvc.board.dto.ContentDto">
->          SELECT * FROM board ORDER BY mId DESC;
+>      <mapper namespace="com.mvc.board.dao.IDao">
+>        <select id="listDao" resultType="com.mvc.board.dto.ContentDto">
+>          SELECT * FROM board ORDER BY mId DESC;
 >        </select>
 >
 >        <insert id="writeDao">
@@ -49,6 +49,8 @@ Intellij 환경에서 실습 진행
 >          DELETE FROM board WHERE mId = #{param1}
 >        </delete>
 >      </mapper>
+
+
 
 4. Controller에 적용하기 
 >    ex) list 화면 보여주기
