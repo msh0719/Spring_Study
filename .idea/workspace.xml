@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1eb36eea-a8d5-455f-ad4b-f29fd3053b7a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Spring-Board-JDBC/Spring_ex-Board-JDBC/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Spring-Board-JDBC/Spring_ex-Board-JDBC/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/artifacts/Spring_ex_Board_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/dictionaries/myeong.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/libraries/Maven__commons_pool_commons_pool_1_6.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/libraries/Maven__org_springframework_spring_beans_4_1_4_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/libraries/Maven__org_springframework_spring_core_4_1_4_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_4_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/libraries/Maven__org_springframework_spring_tx_4_1_4_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/libraries/Spring_4_3_14_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/libraries/Spring_MVC_4_3_14_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/Spring_ex-Board.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/aopalliance-1.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/commons-logging-1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-aop-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-aspects-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-beans-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-context-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-context-support-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-core-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-expression-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-instrument-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-instrument-tomcat-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-jdbc-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-jms-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-messaging-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-orm-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-oxm-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-test-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-tx-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-web-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-webmvc-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-webmvc-portlet-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/lib/spring-websocket-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/META-INF/MANIFEST.MF" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/META-INF/context.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/applicationContext.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/classes/com/mvc/board/Controller/HomeController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/classes/com/mvc/board/dao/ContentDao$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/classes/com/mvc/board/dao/ContentDao$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/classes/com/mvc/board/dao/ContentDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/classes/com/mvc/board/dao/IDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/classes/com/mvc/board/dto/ContentDto.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/dispatcher-servlet.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/commons-collections-3.2.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/commons-dbcp-1.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/commons-pool-1.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/servlet-api-2.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/slf4j-api-1.7.25.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-aop-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-aspects-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-beans-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-context-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-context-support-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-core-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-expression-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-instrument-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-instrument-tomcat-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-jdbc-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-jms-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-messaging-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-orm-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-oxm-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-test-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-tx-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-web-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-webmvc-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-webmvc-portlet-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/lib/spring-websocket-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/views/home.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/views/list.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/views/view.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/views/writeForm.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/out/artifacts/Spring_ex_Board_war_exploded/index.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/src/main/java/com/mvc/board/Controller/HomeController.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/src/main/java/com/mvc/board/dao/ContentDao.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/src/main/java/com/mvc/board/dao/IDao.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/src/main/java/com/mvc/board/dto/ContentDto.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/target/classes/com/mvc/board/Controller/HomeController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/target/classes/com/mvc/board/dao/ContentDao$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/target/classes/com/mvc/board/dao/ContentDao$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/target/classes/com/mvc/board/dao/ContentDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/target/classes/com/mvc/board/dao/IDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/target/classes/com/mvc/board/dto/ContentDto.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/web/META-INF/context.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/web/WEB-INF/applicationContext.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/web/WEB-INF/dispatcher-servlet.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/web/WEB-INF/views/home.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/web/WEB-INF/views/list.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/web/WEB-INF/views/view.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/web/WEB-INF/views/writeForm.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/web/WEB-INF/web.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Spring-Board-Mybatis/Spring_ex-Board-Mybatis/web/index.jsp" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="824" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1eb36eea-a8d5-455f-ad4b-f29fd3053b7a" name="Default" comment="" />
+      <created>1521598688048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521598688048</updated>
+      <workItem from="1521598689387" duration="1000" />
+      <workItem from="1521598697445" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="824" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
