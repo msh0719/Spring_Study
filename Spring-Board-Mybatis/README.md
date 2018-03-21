@@ -1,6 +1,6 @@
 # Spring_Study
 Mybatis를 이용하여 데이터 처리하기
-Intellij 환경에서 실습 진행
+Intellij 환경에서 실습 진행 ( 자세한 코드는 실습 코드 참조)
 
 
 1. pom.xml에 mybatis 라이브러리 추가하기
