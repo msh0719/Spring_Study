@@ -37,9 +37,7 @@ Intellij 환경에서 실습 진행
 >          "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 >
 >      <mapper namespace="com.mvc.board.dao.IDao">    
->      //인터페이스 경로를 정확하게 작성하여야 한다
 >        <select id="listDao" resultType="com.mvc.board.dto.ContentDto">
->        // resultType에 결과타입을 정확하게  명시하여야 한다
 >          SELECT * FROM board ORDER BY mId DESC;
 >        </select>
 >
